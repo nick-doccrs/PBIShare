@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/logo.png" alt="Doccrs Analytics" width="180"/>
+  <img src="Logo/FullLogo_NoBuffer.png" alt="Doccrs Analytics" width="180"/>
 </p>
 
 <h1 align="center">Doccrs Analytics – Power BI Resources</h1>
