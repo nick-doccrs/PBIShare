@@ -44,3 +44,4 @@ It demonstrates how to **progressively reveal information** in Power BI using na
 - Ideal for surfacing contextual details without overcrowding the main report canvas.  
 - Fully built using native Power BI features (no custom visuals).  
 - All icons are from Flaticon - Uicons by <a href="https://www.flaticon.com/uicons">Flaticon</a>
+- Canvas wallpaper - <a href="https://www.freepik.com/free-vector/green-purple-gradient-background_43181516.htm#fromView=keyword&page=1&position=14&uuid=2387d2fc-9b0b-4e96-a2c4-e41663e0f796&query=Ombre">Image by juicy_fish on Freepik</a>

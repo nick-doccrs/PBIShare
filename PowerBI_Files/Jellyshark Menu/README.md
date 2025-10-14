@@ -41,3 +41,4 @@ Built entirely with native Power BI features to replicate a **collapsible / expa
 - Designed for easy reuse in your own reports.  
 - All icons are included locally — no external links.  
 - All icons are from Flaticon - Uicons by <a href="https://www.flaticon.com/uicons">Flaticon</a>
+- Canvas wallpaper - <a href="https://www.freepik.com/free-vector/green-purple-gradient-background_43181516.htm#fromView=keyword&page=1&position=14&uuid=2387d2fc-9b0b-4e96-a2c4-e41663e0f796&query=Ombre">Image by juicy_fish on Freepik</a>
