@@ -35,7 +35,7 @@ Each folder includes:
 ## 📝 License
 
 All content is shared under the [MIT License](LICENSE).  
-You can use, modify, and share these resources freely. Attribution is appreciated.
+You can use, modify, and share these resources freely.
 
 ---
 
@@ -54,4 +54,3 @@ New content will be added regularly.
 ## ⭐ Support
 
 If you find these resources useful, **star this repository** to stay updated.  
-You can also support my work here → [☕ Buy Me a Coffee](https://buymeacoffee.com/doccrs)

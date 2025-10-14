@@ -43,4 +43,4 @@ It demonstrates how to **progressively reveal information** in Power BI using na
 - Demonstrates **Progressive Disclosure**, **Common Region**, and **Proximity** UX principles.  
 - Ideal for surfacing contextual details without overcrowding the main report canvas.  
 - Fully built using native Power BI features (no custom visuals).  
-- Attribution is appreciated if shared publicly.
+- All icons are from Flaticon - Uicons by <a href="https://www.flaticon.com/uicons">Flaticon</a>

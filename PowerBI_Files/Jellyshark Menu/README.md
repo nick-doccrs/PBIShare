@@ -40,4 +40,4 @@ Built entirely with native Power BI features to replicate a **collapsible / expa
 
 - Designed for easy reuse in your own reports.  
 - All icons are included locally — no external links.  
-- Attribution is appreciated if shared publicly.
+- All icons are from Flaticon - Uicons by <a href="https://www.flaticon.com/uicons">Flaticon</a>
