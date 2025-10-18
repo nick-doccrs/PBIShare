@@ -17,6 +17,13 @@ This project supports both new Power BI users and experienced professionals who 
 
 ---
 
+## 🌐 Live Report  
+
+You can view and interact with the live Power BI version here:  
+🔗 [**Open in Power BI Service**](https://app.powerbi.com/view?r=eyJrIjoiNzNjYjBiODktZjdmNS00ZjMwLTk3NWUtYTc2ZDE5ZDQyYmQyIiwidCI6IjQxYmVjZTAxLTYyNGQtNGE4YS1hNzFmLWQ1ZTQ0MmY1MTFjMSJ9)
+
+---
+
 ## 🎥 Demo Video  
 
 https://github.com/user-attachments/assets/04a081f6-c5c3-43a2-97a3-11ca8fc2e3a1   
