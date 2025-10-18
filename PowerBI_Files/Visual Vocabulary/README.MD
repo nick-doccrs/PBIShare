@@ -19,9 +19,7 @@ This project supports both new Power BI users and experienced professionals who 
 
 ## 🎥 Demo Video  
 
-<video src="../../Images/Visual%20Vocabulary.mp4" controls width="600"></video>  
-
-If the video doesn’t play directly on GitHub, you can [download and view it here](../../Images/Visual%20Vocabulary.mp4).  
+https://github.com/user-attachments/assets/04a081f6-c5c3-43a2-97a3-11ca8fc2e3a1   
 
 ---
 
