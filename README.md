@@ -15,9 +15,9 @@
 
 | Resource | Description |
 |-----------|--------------|
-| [📘 Power BI Visual Vocabulary](PowerBI_Files/Visual%20Vocabulary/README.md) | A reference guide to help you select the right Power BI visual. Uses only out-of-the-box visuals — no hacks or custom components. |
-| [📊 Jellyshark Menu](PowerBI_Files/Jellyshark%20Menu/README.md) | A collapsible sidebar navigation pattern built entirely in Power BI. Improves navigation and screen efficiency. |
-| [📈 Sales Canvas](PowerBI_Files/Sales%20Canvas/README.md) | A modern Power BI sales report layout using the gradient canvas wallpaper. Focused on clarity and usability. |
+| [📘 Power BI Visual Vocabulary](PowerBI_Files/Visual%20Vocabulary) | A reference guide to help you select the right Power BI visual. Uses only out-of-the-box visuals — no hacks or custom components. |
+| [📊 Jellyshark Menu](PowerBI_Files/Jellyshark%20Menu) | A collapsible sidebar navigation pattern built entirely in Power BI. Improves navigation and screen efficiency. |
+| [📈 Sales Canvas](PowerBI_Files/Sales%20Canvas) | A modern Power BI sales report layout using the gradient canvas wallpaper. Focused on clarity and usability. |
 
 > More reports and layouts will be added over time. Each includes a local `README.md` with setup instructions and version details.
 
