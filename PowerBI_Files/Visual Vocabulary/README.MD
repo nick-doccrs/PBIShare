@@ -42,7 +42,7 @@ https://github.com/user-attachments/assets/04a081f6-c5c3-43a2-97a3-11ca8fc2e3a1
 ## 🧭 How to Use  
 
 1. Download both the `.pbix` and `Icons.zip` files.  
-2. Unzip `Icons.zip` to access the Microsoft Fabric SVG icons.  
+2. Unzip `Icons.zip` to access the Microsoft Fabric SVG icons and set icons to new location if required.  
 3. Open the `.pbix` file in Power BI Desktop.  
 4. Review each section to explore different visual groups, use cases, and considerations.  
 5. Use this as a reference guide when designing or reviewing reports.  
