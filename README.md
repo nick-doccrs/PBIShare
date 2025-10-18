@@ -17,7 +17,7 @@
 |-----------|--------------|
 | [📘 Power BI Visual Vocabulary](PowerBI_Files/Visual%20Vocabulary) | A reference guide to help you select the right Power BI visual. Uses only out-of-the-box visuals — no hacks or custom components. |
 | [📊 Jellyshark Menu](PowerBI_Files/Jellyshark%20Menu) | A collapsible sidebar navigation pattern built entirely in Power BI. Improves navigation and screen efficiency. |
-| [📈 Sales Canvas](PowerBI_Files/Sales%20Canvas) | A modern Power BI sales report layout using the gradient canvas wallpaper. Focused on clarity and usability. |
+| [📈 Sales Order Confirmation Popover](https://github.com/nick-doccrs/PBIShare/tree/main/PowerBI_Files/Pop-over%20Detail) | Demonstrates how to progressively reveal detail in Power BI using native features — clean, contextual, and distraction-free. |
 
 > More reports and layouts will be added over time. Each includes a local `README.md` with setup instructions and version details.
 
