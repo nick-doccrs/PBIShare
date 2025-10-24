@@ -17,10 +17,11 @@ It combines:
 
 This approach helps prevent misinterpretation and supports better decisions.
 
-![Preview](../../Images/KPI%20Card%20With%20Context.png)
+![Preview](../../Images/Card%20with%20Context.png)
 
-🎥 **Watch the Demo:**  
-https://github.com/user-attachments/assets/b154fa93-3307-40ab-9f85-d618f114f689  
+🎥 **Watch the Demo**
+
+https://github.com/user-attachments/assets/b154fa93-3307-40ab-9f85-d618f114f689
 
 ---
 
