@@ -18,6 +18,7 @@
 | [📘 Power BI Visual Vocabulary](PowerBI_Files/Visual%20Vocabulary) | A reference guide to help you select the right Power BI visual. Uses only out-of-the-box visuals — no hacks or custom components. |
 | [📊 Jellyshark Menu](PowerBI_Files/Jellyshark%20Menu) | A collapsible sidebar navigation pattern built entirely in Power BI. Improves navigation and screen efficiency. |
 | [📈 Sales Order Confirmation Popover](https://github.com/nick-doccrs/PBIShare/tree/main/PowerBI_Files/Pop-over%20Detail) | Demonstrates how to progressively reveal detail in Power BI using native features — clean, contextual, and distraction-free. |
+| [📉 KPI Card With Context](PowerBI_Files/Card%20with%20Context) | Shows how to enrich KPI cards with trend lines and narrative context using standard Power BI visuals — helping users interpret what’s really happening behind the number. |
 
 > More reports and layouts will be added over time. Each includes a local `README.md` with setup instructions and version details.
 
