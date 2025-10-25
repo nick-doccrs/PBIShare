@@ -26,7 +26,7 @@
 
 ## 📁 What's Inside
 
-- **📊 Power BI Reports (.pbix)** – Fully built example reports  
+- **📊 Power BI Reports (.pbix)** – Fully built examples  
 - **🧰 Templates & Layouts** – Reusable report structures and patterns  
 - **📝 Samples & Demos** – Files used in posts, courses, and community content  
 
@@ -66,4 +66,13 @@ New content will be added regularly.
 
 ## ⭐ Support
 
-If you find these resources useful, **star this repository** to stay updated.
+If you find these resources useful, **star this repository** to stay updated.  
+You can also support ongoing Power BI design work and free community resources here:
+
+<p align="center">
+  <a href="https://buymeacoffee.com/doccrs" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="50" width="210" />
+  </a>
+  <br>
+  <sub>Every coffee helps keep new Power BI templates and design patterns coming.</sub>
+</p>
