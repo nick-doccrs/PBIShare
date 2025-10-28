@@ -29,8 +29,8 @@ https://github.com/user-attachments/assets/c2fa949c-e268-488a-9ba8-34c43f7f8c98
 
 ## 🌐 Live Reports
 
-- **Custom Visual version:** [Open in Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiYzYxMTM5OWUtMmY2Ni00ODlhLTkzM2MtYWQ4MjhjNzg2N2QwIiwidCI6IjQxYmVjZTAxLTYyNGQtNGE4YS1hNzFmLWQ1ZTQ0MmY1MTFjMSJ9)  
-- **Native Button Slicer version:** [Open in Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiZTVhZWIxY2ItMTRlZS00NDJmLTgwOGEtMjE2NWExODM4MzE0IiwidCI6IjQxYmVjZTAxLTYyNGQtNGE4YS1hNzFmLWQ1ZTQ0MmY1MTFjMSJ9)
+- **Custom Visual version:** [Open Online](https://app.powerbi.com/view?r=eyJrIjoiYzYxMTM5OWUtMmY2Ni00ODlhLTkzM2MtYWQ4MjhjNzg2N2QwIiwidCI6IjQxYmVjZTAxLTYyNGQtNGE4YS1hNzFmLWQ1ZTQ0MmY1MTFjMSJ9)  
+- **Native Button Slicer version:** [Open Online](https://app.powerbi.com/view?r=eyJrIjoiZTVhZWIxY2ItMTRlZS00NDJmLTgwOGEtMjE2NWExODM4MzE0IiwidCI6IjQxYmVjZTAxLTYyNGQtNGE4YS1hNzFmLWQ1ZTQ0MmY1MTFjMSJ9)
 
 ---
 
