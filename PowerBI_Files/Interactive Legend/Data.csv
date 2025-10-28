@@ -1,0 +1,106 @@
+Role,Period,Route,Count,Route Rank
+Finance,Month,LinkedIn,151,1
+Finance,Week,LinkedIn,64,1
+Finance,Year,LinkedIn,416,1
+HR,Month,LinkedIn,119,1
+HR,Week,LinkedIn,51,1
+HR,Year,LinkedIn,309,1
+IT,Month,LinkedIn,149,1
+IT,Week,LinkedIn,95,1
+IT,Year,LinkedIn,259,1
+Legal,Month,LinkedIn,368,1
+Legal,Week,LinkedIn,84,1
+Legal,Year,LinkedIn,498,1
+Marketing ,Month,LinkedIn,135,1
+Marketing ,Week,LinkedIn,56,1
+Marketing ,Year,LinkedIn,242,1
+Operations,Month,LinkedIn,158,1
+Operations,Week,LinkedIn,76,1
+Operations,Year,LinkedIn,298,1
+Sales,Month,LinkedIn,276,1
+Sales,Week,LinkedIn,114,1
+Sales,Year,LinkedIn,448,1
+Finance,Month,Indeed,95,2
+Finance,Week,Indeed,35,2
+Finance,Year,Indeed,215,2
+HR,Month,Indeed,180,2
+HR,Week,Indeed,52,2
+HR,Year,Indeed,298,2
+IT,Month,Indeed,244,2
+IT,Week,Indeed,117,2
+IT,Year,Indeed,346,2
+Legal,Month,Indeed,99,2
+Legal,Week,Indeed,30,2
+Legal,Year,Indeed,139,2
+Marketing ,Month,Indeed,86,2
+Marketing ,Week,Indeed,29,2
+Marketing ,Year,Indeed,140,2
+Operations,Month,Indeed,204,2
+Operations,Week,Indeed,119,2
+Operations,Year,Indeed,540,2
+Sales,Month,Indeed,229,2
+Sales,Week,Indeed,86,2
+Sales,Year,Indeed,360,2
+Finance,Month,Google Jobs,139,3
+Finance,Week,Google Jobs,66,3
+Finance,Year,Google Jobs,271,3
+HR,Month,Google Jobs,48,3
+HR,Week,Google Jobs,14,3
+HR,Year,Google Jobs,92,3
+IT,Month,Google Jobs,169,3
+IT,Week,Google Jobs,73,3
+IT,Year,Google Jobs,234,3
+Legal,Month,Google Jobs,182,3
+Legal,Week,Google Jobs,57,3
+Legal,Year,Google Jobs,386,3
+Marketing ,Month,Google Jobs,196,3
+Marketing ,Week,Google Jobs,95,3
+Marketing ,Year,Google Jobs,429,3
+Operations,Month,Google Jobs,173,3
+Operations,Week,Google Jobs,113,3
+Operations,Year,Google Jobs,348,3
+Sales,Month,Google Jobs,121,3
+Sales,Week,Google Jobs,47,3
+Sales,Year,Google Jobs,229,3
+Finance,Month,Direct,63,4
+Finance,Week,Direct,22,4
+Finance,Year,Direct,180,4
+HR,Month,Direct,234,4
+HR,Week,Direct,91,4
+HR,Year,Direct,543,4
+IT,Month,Direct,180,4
+IT,Week,Direct,78,4
+IT,Year,Direct,365,4
+Legal,Month,Direct,253,4
+Legal,Week,Direct,66,4
+Legal,Year,Direct,418,4
+Marketing ,Month,Direct,242,4
+Marketing ,Week,Direct,65,4
+Marketing ,Year,Direct,297,4
+Operations,Month,Direct,50,4
+Operations,Week,Direct,23,4
+Operations,Year,Direct,121,4
+Sales,Month,Direct,64,4
+Sales,Week,Direct,28,4
+Sales,Year,Direct,108,4
+Finance,Month,Referral,136,5
+Finance,Week,Referral,63,5
+Finance,Year,Referral,415,5
+HR,Month,Referral,162,5
+HR,Week,Referral,60,5
+HR,Year,Referral,328,5
+IT,Month,Referral,115,5
+IT,Week,Referral,60,5
+IT,Year,Referral,222,5
+Legal,Month,Referral,239,5
+Legal,Week,Referral,62,5
+Legal,Year,Referral,319,5
+Marketing ,Month,Referral,106,5
+Marketing ,Week,Referral,41,5
+Marketing ,Year,Referral,158,5
+Operations,Month,Referral,72,5
+Operations,Week,Referral,36,5
+Operations,Year,Referral,138,5
+Sales,Month,Referral,191,5
+Sales,Week,Referral,99,5
+Sales,Year,Referral,514,5
