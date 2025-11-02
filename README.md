@@ -20,6 +20,7 @@
 | [Sales Order Confirmation Popover](https://github.com/nick-doccrs/PBIShare/tree/main/PowerBI_Files/Pop-over%20Detail) | Demonstrates how to progressively reveal detail in Power BI using native features — clean, contextual, and distraction-free. |
 | [KPI Card With Context](PowerBI_Files/Card%20with%20Context) | Shows how to enrich KPI cards with trend lines and narrative context using standard Power BI visuals — helping users interpret what’s really happening behind the number. |
 | [Interactive Legend](PowerBI_Files/Interactive%20Legend) | Demonstrates how to create a dynamic, clickable legend in Power BI — letting users toggle series visibility directly within charts using either a custom or native visual approach. |
+| [Performance vs Target (Rounded Visual)](PowerBI_Files/Performance%20vs%20Target%20(Rounded%20Visual)) | Rounded “actual vs target” bars using two native bar charts plus an overlay. Clean labels. No custom visuals. |
 
 > More reports and layouts will be added over time. Each includes a local `README.md` with setup instructions and version details.
 
@@ -27,7 +28,7 @@
 
 ## 📁 What's Inside
 
-- **📊 Power BI Reports (.pbix)** – Fully built examples  
+- **📊 Power BI FIles (.pbix)** – Fully built examples  
 - **🧰 Templates & Layouts** – Reusable report structures and patterns  
 - **📝 Samples & Demos** – Files used in posts, courses, and community content  
 
