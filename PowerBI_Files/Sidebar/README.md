@@ -10,9 +10,11 @@
 A new **Power BI sidebar navigation pattern** designed for a modern, web-app-style experience.  
 Built with native Power BI features and a single marketplace visual, it delivers a **collapsible, context-aware menu** that enhances navigation flow and user focus.
 
-🎥 **Demo video:** [Watch on GitHub](https://github.com/user-attachments/assets/63251fdd-b7ec-4f93-af8b-0bd3afff3599)
-
 ![Preview](../../Images/Sidebar.png)
+
+🎥 **Watch the Demo** 
+
+https://github.com/user-attachments/assets/63251fdd-b7ec-4f93-af8b-0bd3afff3599
 
 ---
 
