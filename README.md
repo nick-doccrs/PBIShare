@@ -5,7 +5,7 @@
 <h1 align="center">Doccrs Analytics – Power BI Visual Patterns</h1>
 
 <p align="center">
-  A public collection of free Power BI visual assets. Each pattern focuses on simple, reusable layouts that can help you to improve your Power BI reports<br>
+  A public collection of free Power BI visual assets.<br>
   Download, explore, and adapt them to level up your own Power BI projects.
 </p>
 
