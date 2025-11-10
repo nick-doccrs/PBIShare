@@ -15,6 +15,12 @@ The visuals collectively showcase how to organize multiple chart styles within a
 
 ---
 
+## 🎥 Demo Video  
+
+https://github.com/user-attachments/assets/67368749-9cf6-4dd1-8e7f-b5204a25d043  
+
+---
+
 ## 📂 File List  
 
 - `Widget Charts Selection.pbix` – Dashboard design file  
