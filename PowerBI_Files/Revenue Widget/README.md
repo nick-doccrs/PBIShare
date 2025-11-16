@@ -14,8 +14,10 @@ It is designed as a reusable pattern for ecommerce, retail, and other reporting 
 ## 🎥 Demo Video  
 https://github.com/user-attachments/assets/80bde75d-eb13-402b-b625-ba28b9e1ce68
 
-## 🔗 Live Demo  
-https://app.powerbi.com/view?r=eyJrIjoiYTY1NWM4ODQtNzgwYS00OTNiLWJhMzctYjhhZjZiMzNjOWZhIiwidCI6IjQxYmVjZTAxLTYyNGQtNGE4YS1hNzFmLWQ1ZTQ0MmY1MTFjMSJ9
+## 🔗 Live Demo 
+
+You can view and interact with the live Power BI version here:  
+[**Open in Power BI Service**](https://app.powerbi.com/view?r=eyJrIjoiYTY1NWM4ODQtNzgwYS00OTNiLWJhMzctYjhhZjZiMzNjOWZhIiwidCI6IjQxYmVjZTAxLTYyNGQtNGE4YS1hNzFmLWQ1ZTQ0MmY1MTFjMSJ9)
 
 ## 📂 File List  
 - **Revenue Widget.pbix** – Power BI file  
