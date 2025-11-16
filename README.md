@@ -24,6 +24,7 @@
 | [Interactive Legend](PowerBI_Files/Interactive%20Legend) | Demonstrates how to create a dynamic, clickable legend in Power BI — letting users toggle series visibility directly within charts using either a custom or native visual approach. |
 | [Performance vs Target (Rounded Visual)](PowerBI_Files/Performance%20vs%20Target%20(Rounded%20Visual)) | Rounded “actual vs target” bars using two native bar charts plus an overlay. Clean labels. No custom visuals. |
 | [Widget Charts Selection](PowerBI_Files/Widget%20Charts%20Selection) | A modular set of chart widgets demonstrating cohesive UI/UX design for compact dashboards. Focused on layout consistency, visual hierarchy, and component-based chart systems. |
+| [Revenue Widget](PowerBI_Files/Revenue%20Widget) | A standalone, reusable UI component built using a widget-based Power BI design approach. Combines revenue KPIs, device trends, and micro-interactions into a clean, modular layout. Uses only native visuals and includes reusable icons and a sample dataset. |
 
 > More reports and layouts will be added over time. Each includes a local `README.md` with setup instructions and version details.
 
